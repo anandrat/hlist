@@ -1,5 +1,5 @@
 # Real Estate Website
-# Tools Used : PHP, MySQL, Angular
+# Tools Used : PHP, MySQL
 # Created by Tenzin Kunkyab
 # Contact : ten.kunkyab@gmail.com
 
